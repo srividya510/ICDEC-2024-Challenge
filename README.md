@@ -1,1 +1,3 @@
 # ICDEC-2024-Challenge
+
+Vehicle detection in diverse weather and lighting conditions remains a significant challenge in computer vision. The AVD-Dataset, consisting of 3,200 images with annotations in YOLO format, provides a platform to advance this field. In our study, we employed the YOLO v8x model to detect and classify vehicles from this dataset, achieving promising results with a mean Average Precision (mAP50) of 0.465 and an mAP50-95 of 0.236. Notable performances were observed for classes such as cars and buses, with mAP50 scores of 0.801 and 0.761, respectively. Our approach demonstrates the potential for improved vehicle detection under varying conditions, contributing to the ongoing development of robust detection algorithms.
